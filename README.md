@@ -5,6 +5,7 @@ The BTC price dataset was prepared and visualized using microsoft power BI. The 
 - Data Modelling
 - Power Querying
 - Data Analytics Expessions
+- Time series Analysis
 
 # Tools
 Microsoft Power BI
